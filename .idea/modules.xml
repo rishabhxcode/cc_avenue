@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/cc_avenue.iml" filepath="$PROJECT_DIR$/cc_avenue.iml" />
+      <module fileurl="file://$PROJECT_DIR$/android/cc_avenue_android.iml" filepath="$PROJECT_DIR$/android/cc_avenue_android.iml" />
+      <module fileurl="file://$PROJECT_DIR$/example/android/cc_avenue_example_android.iml" filepath="$PROJECT_DIR$/example/android/cc_avenue_example_android.iml" />
+    </modules>
+  </component>
+</project>
