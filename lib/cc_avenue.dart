@@ -35,12 +35,3 @@ class CcAvenue {
     });
   }
 }
-///access code AVGC07ID06BB49CGBB
-///MID 374583
-///ORderID 10
-///Currency INR
-///Amount 1
-///redirect url
-///cancel url
-///rsa url https://secure.ccavenue.com/transaction/jsp/GetRSA.jsp
-///

@@ -1,7 +1,6 @@
 name: cc_avenue
 description: cc_avenue payment gateway non-seamless
 version: 0.0.1
-author: Avinash Gotluru
 repository: https://github.com/avinash-gotluru/cc_avenue
 
 environment:
