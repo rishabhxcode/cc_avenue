@@ -25,7 +25,6 @@ import android.webkit.WebView;
 import android.webkit.WebViewClient;
 import android.widget.Toast;
 
-
 import androidx.appcompat.app.AppCompatActivity;
 
 import com.android.volley.Request;
@@ -36,7 +35,6 @@ import com.android.volley.toolbox.StringRequest;
 import com.android.volley.toolbox.Volley;
 import com.avinash.gotluru.cc_avenue.R;
 import com.avinash.gotluru.cc_avenue.Utility.AvenuesParams;
-import com.avinash.gotluru.cc_avenue.Utility.Constants;
 import com.avinash.gotluru.cc_avenue.Utility.LoadingDialog;
 import com.avinash.gotluru.cc_avenue.Utility.RSAUtility;
 import com.avinash.gotluru.cc_avenue.Utility.ServiceUtility;
