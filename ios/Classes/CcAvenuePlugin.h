@@ -1,4 +1,4 @@
 #import <Flutter/Flutter.h>
 
-@interface CcAvenuePlugin : NSObject<FlutterPlugin>
+@interface CcAvenuePlugin : UIViewController<FlutterPlugin>
 @end
