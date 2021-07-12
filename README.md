@@ -20,9 +20,9 @@ samples, guidance on mobile development, and a full API reference.
 </p>
 
 
-###As of now this package supports only Android
+### As of now this package supports only Android
 
-###Call this as Async. You job is done!
+### Call this as Async. You job is done!
 
 ### if you are working with test environment please update the [transUrl] as ``` https://test.ccavenue.com/transaction/initTrans ```
 ```
