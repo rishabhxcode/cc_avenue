@@ -1,0 +1,22 @@
+PODS:
+  - cc_avenue_new (0.0.1):
+    - Flutter
+  - Flutter (1.0.0)
+
+DEPENDENCIES:
+  - cc_avenue_new (from `.symlinks/plugins/cc_avenue_new/ios`)
+  - Flutter (from `Flutter`)
+
+EXTERNAL SOURCES:
+  cc_avenue_new:
+    :path: ".symlinks/plugins/cc_avenue_new/ios"
+  Flutter:
+    :path: Flutter
+
+SPEC CHECKSUMS:
+  cc_avenue_new: 2ce8c0baf683e14b28596ed44297e15696709a28
+  Flutter: 434fef37c0980e73bb6479ef766c45957d4b510c
+
+PODFILE CHECKSUM: aafe91acc616949ddb318b77800a7f51bffa2a4c
+
+COCOAPODS: 1.10.1
