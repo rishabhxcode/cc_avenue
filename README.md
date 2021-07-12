@@ -15,7 +15,7 @@ samples, guidance on mobile development, and a full API reference.
 
 
 <p align="left">
-<a href="https://pub.dev/packages/cc_avenue"><img src="https://img.shields.io/pub/v/flutter_bloc.svg" alt="Pub"></a>
+<a href="https://pub.dev/packages/cc_avenue/"><img src="https://img.shields.io/pub/v/flutter_bloc.svg" alt="Pub"></a>
 <a href="https://opensource.org/licenses/MIT"><img src="https://img.shields.io/badge/license-MIT-purple.svg" alt="License: MIT"></a>
 </p>
 
